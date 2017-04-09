@@ -1,6 +1,6 @@
 # Schwifty
 
-TODO: Write a project description
+App to solve the demand for computer repair
 
 ## Version 
 1.0.0.0
