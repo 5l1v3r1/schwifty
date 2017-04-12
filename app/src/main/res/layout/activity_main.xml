@@ -4,8 +4,37 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.justinfaler.immune.schwifty.MainActivity"
-    android:background="#00c0e9"
-    >
+    android:background="#00d8a2"
+    tools:context="com.justinfaler.immune.schwifty.MainActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="237dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="phone"
+        android:hint="Phone number"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="267dp"
+        android:layout_height="50dp"
+        android:text="Sign Up"
+        android:background="#00a57c"
+        android:textColor="#fff"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="470dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="237dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteY="374dp"
+        tools:layout_editor_absoluteX="62dp" />
 
 </android.support.constraint.ConstraintLayout>
