@@ -1,5 +1,5 @@
 # schwifty
-Peer to peer app to solve problem of supply and demand 
+Peer to peer app to provide jobs for everyone.
 
 ## Version 
 1.0.0.0
