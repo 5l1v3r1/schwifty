@@ -1,5 +1,5 @@
 # schwifty
-Peer to peer app to provide jobs for everyone.
+A peer to peer app to provide jobs with tracking.
 
 ## Version 
 1.0.0.0
@@ -22,6 +22,7 @@ Functional & non-functional requirements
 4. Google Map api 
 5. Request "Service"
 6. Profile
+7. Review 
 
 ## Contributing
 
