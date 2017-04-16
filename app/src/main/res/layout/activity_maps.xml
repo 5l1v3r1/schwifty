@@ -26,7 +26,7 @@
             <TextView android:gravity="center_vertical"
                 android:id="@+id/Locality"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="44dp"
                 android:drawableLeft="@drawable/ic_btn_current_location"
                 android:drawablePadding="@dimen/list_row_padding"
                 android:ellipsize="end"
@@ -82,7 +82,7 @@
         <Button
             android:id="@+id/button2"
             android:layout_width="390dp"
-            android:layout_height="wrap_content"
+            android:layout_height="59dp"
             android:layout_gravity="bottom|center"
             android:text="Request Service" />
 
