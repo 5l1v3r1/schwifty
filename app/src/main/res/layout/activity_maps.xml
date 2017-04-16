@@ -70,7 +70,7 @@
                 android:paddingLeft="2dp"
                 android:paddingRight="2dp"
                 android:text=" Set your Location "
-                android:textColor="@android:color/white" />
+                android:textColor="@android:color/black" />
 
             <ImageView
                 android:id="@+id/imageMarker"
@@ -79,6 +79,12 @@
                 android:src="@drawable/add_marker" />
         </LinearLayout>
 
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="390dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:text="Request Service" />
 
 
     </FrameLayout>
