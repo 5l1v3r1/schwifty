@@ -14,8 +14,8 @@
         android:ems="10"
         android:inputType="phone"
         android:hint="Phone number"
-        tools:layout_editor_absoluteX="62dp"
-        tools:layout_editor_absoluteY="332dp" />
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="166dp" />
 
     <Button
         android:id="@+id/button"
@@ -24,8 +24,8 @@
         android:text="Sign Up"
         android:background="#00a57c"
         android:textColor="#fff"
-        tools:layout_editor_absoluteX="47dp"
-        tools:layout_editor_absoluteY="461dp" />
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="472dp" />
 
     <EditText
         android:id="@+id/editText2"
@@ -34,7 +34,7 @@
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
-        tools:layout_editor_absoluteY="374dp"
-        tools:layout_editor_absoluteX="62dp" />
+        tools:layout_editor_absoluteY="225dp"
+        tools:layout_editor_absoluteX="87dp" />
 
 </android.support.constraint.ConstraintLayout>
