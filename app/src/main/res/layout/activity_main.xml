@@ -15,7 +15,7 @@
         android:inputType="phone"
         android:hint="Phone number"
         tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="166dp" />
+        tools:layout_editor_absoluteY="269dp" />
 
     <Button
         android:id="@+id/button"
@@ -34,7 +34,16 @@
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
-        tools:layout_editor_absoluteY="225dp"
+        tools:layout_editor_absoluteY="368dp"
         tools:layout_editor_absoluteX="87dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="240dp"
+        android:layout_height="42dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="196dp" />
 
 </android.support.constraint.ConstraintLayout>
