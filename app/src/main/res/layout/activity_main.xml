@@ -47,4 +47,14 @@
         tools:layout_editor_absoluteX="85dp"
         tools:layout_editor_absoluteY="247dp" />
 
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="234dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:inputType="textPostalAddress"
+        android:hint="Address"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="186dp" />
+
 </android.support.constraint.ConstraintLayout>
