@@ -57,4 +57,14 @@
         tools:layout_editor_absoluteX="87dp"
         tools:layout_editor_absoluteY="186dp" />
 
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="235dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="Verify password"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="427dp" />
+
 </android.support.constraint.ConstraintLayout>
