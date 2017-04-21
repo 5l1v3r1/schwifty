@@ -43,7 +43,7 @@
         android:layout_height="42dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:hint="Email Address"
+        android:hint="Email address"
         tools:layout_editor_absoluteX="85dp"
         tools:layout_editor_absoluteY="247dp" />
 
