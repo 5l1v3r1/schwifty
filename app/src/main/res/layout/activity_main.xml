@@ -67,4 +67,24 @@
         tools:layout_editor_absoluteX="88dp"
         tools:layout_editor_absoluteY="427dp" />
 
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="234dp"
+        android:layout_height="41dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Last name"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="123dp" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="234dp"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="53dp" />
+
 </android.support.constraint.ConstraintLayout>
