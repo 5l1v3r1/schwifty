@@ -73,7 +73,7 @@
         android:layout_height="41dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Last name"
+        android:hint="Last name"
         tools:layout_editor_absoluteX="87dp"
         tools:layout_editor_absoluteY="123dp" />
 
@@ -83,7 +83,7 @@
         android:layout_height="48dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:hint="First Name"
         tools:layout_editor_absoluteX="87dp"
         tools:layout_editor_absoluteY="53dp" />
 
