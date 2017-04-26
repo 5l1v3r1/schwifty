@@ -59,13 +59,14 @@
 
     <EditText
         android:id="@+id/editText5"
-        android:layout_width="235dp"
-        android:layout_height="40dp"
+        android:layout_width="288dp"
+        android:layout_height="36dp"
         android:ems="10"
+        android:background="@drawable/editText7"
         android:inputType="textPassword"
         android:hint="Verify password"
-        tools:layout_editor_absoluteX="88dp"
-        tools:layout_editor_absoluteY="427dp" />
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="442dp" />
 
     <EditText
         android:id="@+id/editText6"
