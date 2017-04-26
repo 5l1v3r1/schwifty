@@ -4,88 +4,95 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00d8a2"
+    android:background="#DA413D"
     tools:context="com.justinfaler.immune.schwifty.MainActivity">
 
     <EditText
+        android:background="@drawable/editText6"
         android:id="@+id/editText"
-        android:layout_width="237dp"
-        android:layout_height="42dp"
+        android:layout_width="315dp"
+        android:layout_height="46dp"
         android:ems="10"
         android:inputType="phone"
         android:hint="Phone number"
-        tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="308dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="260dp" />
 
     <Button
         android:id="@+id/button"
-        android:layout_width="267dp"
+        android:layout_width="315dp"
         android:layout_height="50dp"
         android:text="Sign Up"
-        android:background="#00a57c"
+        android:background="#96211d"
         android:textColor="#fff"
-        tools:layout_editor_absoluteX="72dp"
-        tools:layout_editor_absoluteY="545dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="408dp" />
 
     <EditText
+        android:background="@drawable/editText6"
         android:id="@+id/editText2"
-        android:layout_width="237dp"
-        android:layout_height="42dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
-        tools:layout_editor_absoluteY="368dp"
-        tools:layout_editor_absoluteX="87dp" />
+        tools:layout_editor_absoluteY="306dp"
+        tools:layout_editor_absoluteX="48dp" />
 
     <EditText
+        android:background="@drawable/editText6"
         android:id="@+id/editText3"
-        android:layout_width="240dp"
-        android:layout_height="42dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
         android:inputType="textEmailAddress"
         android:hint="Email address"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="247dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="220dp" />
 
     <EditText
+        android:background="@drawable/editText6"
         android:id="@+id/editText4"
-        android:layout_width="234dp"
-        android:layout_height="47dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
         android:inputType="textPostalAddress"
         android:hint="Street address"
-        tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="186dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="180dp" />
 
     <EditText
+
         android:id="@+id/editText5"
-        android:layout_width="288dp"
-        android:layout_height="36dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
-        android:background="@drawable/editText7"
+        android:background="@drawable/editText6"
         android:inputType="textPassword"
         android:hint="Verify password"
-        tools:layout_editor_absoluteX="61dp"
-        tools:layout_editor_absoluteY="442dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="346dp" />
 
     <EditText
         android:id="@+id/editText6"
-        android:layout_width="234dp"
-        android:layout_height="41dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
+        android:background="@drawable/editText6"
         android:inputType="textPersonName"
         android:hint="Last name"
-        tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="123dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="140dp" />
 
     <EditText
+        android:background="@drawable/editText6"
         android:id="@+id/editText7"
-        android:layout_width="234dp"
-        android:layout_height="48dp"
+        android:layout_width="315dp"
+        android:layout_height="40dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:hint="First Name"
-        tools:layout_editor_absoluteX="87dp"
-        tools:layout_editor_absoluteY="53dp" />
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="100dp" />
 
 </android.support.constraint.ConstraintLayout>

@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/rounded_corner_map"
                 android:gravity="center"
-                android:minWidth="250dp"
+                android:minWidth="75dp"
                 android:paddingLeft="2dp"
                 android:paddingRight="2dp"
                 android:text="ETA"
@@ -79,6 +79,7 @@
 
         <Button
             android:id="@+id/button2"
+            android:background="@drawable/editText7"
             android:layout_width="390dp"
             android:layout_height="59dp"
             android:layout_gravity="bottom|center"
