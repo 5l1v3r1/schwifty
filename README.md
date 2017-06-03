@@ -2,7 +2,7 @@
 A peer to peer app to provide jobs with tracking.
 
 ## Version 
-1.0.0.0
+1.0.0.1
 
 ## Installation
 
@@ -38,8 +38,12 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+Justin Rayfield Faler 
 
 ## License
 
-TODO: Write license
+/* Copyright (C) Rayfield Systems, Inc - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Justin Faler <jstnfaler@gmail.com>, June 2017
+ */
