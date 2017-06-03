@@ -41,9 +41,10 @@ TODO: Write history
 Justin Rayfield Faler 
 
 ## License
-
+```
 /* Copyright (C) Rayfield Systems, Inc - All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
  * Written by Justin Faler <jstnfaler@gmail.com>, June 2017
  */
+ ```
